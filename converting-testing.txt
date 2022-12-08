@@ -1,0 +1,37 @@
+shanenichols@Shanes-Air-2 convertingfolder % ./a.out
+*** Start of Converting Strings to int Demo ***
+Type an int numeric string (q- to quit) : 
+0
+Converted number is 0
+Type an int numeric string (q- to quit) : 
+1234567890
+Converted number is 1234567890
+Type an int numeric string (q- to quit) : 
+12345#$%
+Converted number is 12345
+Type an int numeric string (q- to quit) : 
+          
+Converted number is 0
+Type an int numeric string (q- to quit) : 
+Input: Hello, I am typing a lot of words to reach the 300 character limit. Am I there yet? How about now? 200 characters left. Still going. Everyone put your hands in the air, weeeeeeeeeeeeee. I 
+can't hear you, WEEEEEEEEEEEEEEE. a b c d e f g h i j k l m n o p q r s t u v w x y z. fhai dh fuihdiuf iduhaf hdfiudsahf iuds finally..
+Converted number is 0
+Type an int numeric string (q- to quit) : 
+Converted number is 0
+Type an int numeric string (q- to quit) : 
+Converted number is 0
+Type an int numeric string (q- to quit) : 
+Converted number is 0
+Type an int numeric string (q- to quit) : 
+Converted number is 0
+Type an int numeric string (q- to quit) : 
+q is my favorite letter
+Converted number is 0
+Type an int numeric string (q- to quit) : 
+25+90-7+5
+Converted number is 25
+Type an int numeric string (q- to quit) : 
+q
+*** End of Converting Strings to int Demo ***
+
+shanenichols@Shanes-Air-2 convertingfolder/

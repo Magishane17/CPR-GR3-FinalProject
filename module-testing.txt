@@ -1,0 +1,56 @@
+ <Test1>
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit) :
+I am in Seneca College
+Type the 2nd string:
+My friends also studying in Seneca College
+Concatenated string is 'I am in Seneca CollegeMy friends also studying in Seneca College'
+Type the 1st string (q - to quit) :
+q
+*** End of Concatenating Strings Demo ***
+
+<Test2>
+
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit) :
+1234567890
+Type the 2nd string:
+1112131415161718
+Concatenated string is '12345678901112131415161718'
+Type the 1st string (q - to quit) :
+q
+*** End of Concatenating Strings Demo ***
+
+<Test 3>
+
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit) :
+The good morning train coming how are you the good morning train is coming how are you
+Type the 2nd string:
+Concatenated string is 'The good morning train coming how are you the good morning train is coming howare you'
+Type the 1st string (q - to quit) :
+q
+*** End of Concatenating Strings Demo ***
+
+<Test 4>
+
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit) :
+Happy
+Type the 2nd string:
+If happy and you know it clap your hands if happy and you know it clap your hands if happy and you know it
+Concatenated string is 'HappyIf happy and you know it clap your hands if happy and you know it clap your ha'
+Type the 1st string (q - to quit) :
+Type the 2nd string:
+
+<Test 5>
+
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit) :
+@##^%&$&%*%
+Type the 2nd string:
+!~&$**()#)&$(^%#$##
+Concatenated string is '@##^%&$&%*%!~&$**()#)&$(^%#$##'
+Type the 1st string (q - to quit) :
+q
+*** End of Concatenating Strings Demo ***

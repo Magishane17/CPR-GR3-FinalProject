@@ -1,0 +1,62 @@
+FUNDAMENTALS
+
+Test1
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+aaaaaa
+Type the character position within the string:
+
+
+Test2
+	Possible Input 1:
+Type not empty string (q - to quit):
+a
+Type the character position within the string:
+
+	Possible Input 2:
+Type not empty string (q - to quit):
+1
+Type the character position within the string:
+
+	Possible Input 3:
+Type not empty string (q - to quit):
+#
+Type the character position within the string:
+
+
+Test3
+Type not empty string (q - to quit):
+HELLO
+Type the character position within the string:
+1
+The character found at 1 position is 'E'
+
+Test4
+Type the character position within the string:
+5
+Too big... Position reduced to max. availbale
+The character found at 4 position is 'O'
+
+Test5
+Type not empty string (q - to quit):
+HELLO
+Type the character position within the string:
+ABCDE
+The character found at 0 position is 'H'
+
+Test6
+Type not empty string (q - to quit):
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+Type the character position within the string:
+The character found at 0 position is 'q'
+Type not empty string (q - to quit):
+
+Test7
+Type not empty string (q - to quit):
+HELLO
+Type the character position within the string:
+12345678999
+Too big... Position reduced to max. availbale
+The character found at 4 position is 'O'
+Type not empty string (q - to quit):
+Type the character position within the string:

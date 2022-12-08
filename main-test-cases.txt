@@ -1,0 +1,189 @@
+
+
+
+shanenichols@Shanes-Air-2 version1 % ./a.out
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run? 
+1
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+1
+Type the character position within the string:
+4
+Too big... Position reduced to max. availbale
+The character found at 0 position is '1'
+Type not empty string (q - to quit):
+faojnnzfycloaorwnhqhrlegdcoshqylorwlmskphmkukaimuvjdotrpvtgiglcrojfqexipmchzis
+Type the character position within the string:
+5
+The character found at 5 position is 'n'
+Type not empty string (q - to quit):
+q
+*** End of Indexing Strings Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run? 
+2
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit) :
+
+Type the 2nd string:
+
+Concatenated string is ''
+Type the 1st string (q - to quit) :
+I am in seneca college 
+Type the 2nd string:
+my friends are also studying in seneca college
+Concatenated string is 'I am in seneca collegemy friends are also studying in seneca college'
+Type the 1st string (q - to quit) :
+1. String 1: The good morning train coming how are you the good morning train is coming how are you
+Type the 2nd string:
+zsh: trace trap  ./a.out
+shanenichols@Shanes-Air-2 version1 % ./a.out
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run? 
+3
+*** Start of Converting Strings to int Demo ***
+Type an int numeric string (q- to quit) : 
+Shane Nichols
+Converted number is 0
+Type an int numeric string (q- to quit) : 
+4
+Converted number is 4
+Type an int numeric string (q- to quit) : 
+2
+Converted number is 2
+Type an int numeric string (q- to quit) : 
+1
+Converted number is 1
+Type an int numeric string (q- to quit) : 
+1233456
+Converted number is 1233456
+Type an int numeric string (q- to quit) : 
+1234556778
+Converted number is 1234556778
+Type an int numeric string (q- to quit) : 
+354087292049268315771706989357588660431716963066571963914855177353814980720695
+Converted number is -1
+Type an int numeric string (q- to quit) : 
+q
+*** End of Converting Strings to int Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run? 
+4
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q - to quit):
+     
+Type a few words separated by space (q - to quit):
+I am attending Seneca College
+Word #1 is 'I'
+Word #2 is 'am'
+Word #3 is 'attending'
+Word #4 is 'Seneca'
+Word #5 is 'College'
+Type a few words separated by space (q - to quit):
+ Hello, I am typing a lot of words to reach the 300 character limit. Am I there yet? How about now? 200 characters left. Still going. Everyone put your hands in the air, weeeeeeeeeeeeee. I can't 
+hear you, WEEEEEEEEEEEEEEE. a b c d e f g h i j k l m n o p q r s t u v w x y z. fhai dh fuihdiuf iduhaf hdfiudsahf iuds finally..
+Word #1 is 'Hello,'
+Word #2 is 'I'
+Word #3 is 'am'
+Word #4 is 'typing'
+Word #5 is 'a'
+Word #6 is 'lot'
+Word #7 is 'of'
+Word #8 is 'words'
+Word #9 is 'to'
+Word #10 is 'reach'
+Word #11 is 'the'
+Word #12 is '300'
+Word #13 is 'character'
+Word #14 is 'limit.'
+Word #15 is 'Am'
+Word #16 is 'I'
+Word #17 is 'there'
+Word #18 is 'yet?'
+Word #19 is 'How'
+Word #20 is 'about'
+Word #21 is 'now?'
+Word #22 is '200'
+Word #23 is 'characters'
+Word #24 is 'left.'
+Word #25 is 'Still'
+Word #26 is 'going.'
+Word #27 is 'Everyone'
+Word #28 is 'put'
+Word #29 is 'your'
+Word #30 is 'hands'
+Word #31 is 'in'
+Word #32 is 'the'
+Word #33 is 'air,'
+Word #34 is 'weeeeeeeeeeeeee.'
+Word #35 is 'I'
+Word #36 is 'can't'
+Word #37 is 'hear'
+Word #38 is 'you,'
+Word #39 is 'WEEEEEEEEEEEEEEE.'
+Word #40 is 'a'
+Word #41 is 'b'
+Word #42 is 'c'
+Word #43 is 'd'
+Word #44 is 'e'
+Word #45 is 'f'
+Word #46 is 'g'
+Word #47 is 'h'
+Word #48 is 'i'
+Word #49 is 'j'
+Word #50 is 'k'
+Word #51 is 'l'
+Word #52 is 'm'
+Word #53 is 'n'
+Word #54 is 'o'
+Word #55 is 'p'
+Word #56 is 'q'
+Word #57 is 'r'
+Word #58 is 's'
+Word #59 is 't'
+Word #60 is 'u'
+Word #61 is 'v'
+Word #62 is 'w'
+Word #63 is 'x'
+Word #64 is 'y'
+Word #65 is 'z.'
+Word #66 is 'fhai'
+Word #67 is 'dh'
+Word #68 is 'fuihdiuf'
+Word #69 is 'iduha'
+Type a few words separated by space (q - to quit):
+Word #1 is 'hdfiudsahf'
+Word #2 is 'iuds'
+Word #3 is 'finally..'
+Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run? 
+0 
+shanenichols@Shanes-Air-2 version1 % 
+

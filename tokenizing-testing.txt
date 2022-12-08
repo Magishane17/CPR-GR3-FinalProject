@@ -1,0 +1,135 @@
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+4
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q - to quit):
+I am attending Seneca College
+Word #1 is 'I'
+Word #2 is 'am'
+Word #3 is 'attending'
+Word #4 is 'Seneca'
+Word #5 is 'College'
+Type a few words separated by space (q - to quit):
+I-+ aa&93 jsd*^4 sjj@k
+Word #1 is 'I-+'
+Word #2 is 'aa&93'
+Word #3 is 'jsd*^4'
+Word #4 is 'sjj@k'
+Type a few words separated by space (q - to quit):
+Hello, I am typing a lot of words to reach the 300 character limit. Am I there yet?Hello, I am typing a lot of words to reach the 300 character limit. Am I there yet? How about now? 200 characters left. Still going. Everyone put your hands in the air, weeeeeeeeeeeeee. I can't hear you, WEEEEEEEEEEEEEEE. a b c d e f g h i j k l m n o p q r s t u v w x y z. fhai dh fuihdiuf iduhaf hdfiudsahf iuds finally..
+Word #1 is 'Hello,'
+Word #2 is 'I'
+Word #3 is 'am'
+Word #4 is 'typing'
+Word #5 is 'a'
+Word #6 is 'lot'
+Word #7 is 'of'
+Word #8 is 'words'
+Word #9 is 'to'
+Word #10 is 'reach'
+Word #11 is 'the'
+Word #12 is '300'
+Word #13 is 'character'
+Word #14 is 'limit.'
+Word #15 is 'Am'
+Word #16 is 'I'
+Word #17 is 'there'
+Word #18 is 'yet?Hello,'
+Word #19 is 'I'
+Word #20 is 'am'
+Word #21 is 'typing'
+Word #22 is 'a'
+Word #23 is 'lot'
+Word #24 is 'of'
+Word #25 is 'words'
+Word #26 is 'to'
+Word #27 is 'reach'
+Word #28 is 'the'
+Word #29 is '300'
+Word #30 is 'character'
+Word #31 is 'limit.'
+Word #32 is 'Am'
+Word #33 is 'I'
+Word #34 is 'there'
+Word #35 is 'yet?'
+Word #36 is 'How'
+Word #37 is 'about'
+Word #38 is 'now?'
+Word #39 is '200'
+Word #40 is 'characters'
+Word #41 is 'left.'
+Word #42 is 'Still'
+Word #43 is 'going.'
+Word #44 is 'Everyone'
+Word #45 is 'put'
+Word #46 is 'your'
+Word #47 is 'hands'
+Word #48 is 'in'
+Word #49 is 'the'
+Word #50 is 'air,'
+Word #51 is 'weeeeeeeeeeeeee.'
+Word #52 is 'I'
+Word #53 is 'can't'
+Word #54 is 'hear'
+Word #55 is 'you,'
+Word #56 is 'WEEEEEEEEEE'
+Type a few words separated by space (q - to quit):
+Word #1 is 'EEEE.'
+Word #2 is 'a'
+Word #3 is 'b'
+Word #4 is 'c'
+Word #5 is 'd'
+Word #6 is 'e'
+Word #7 is 'f'
+Word #8 is 'g'
+Word #9 is 'h'
+Word #10 is 'i'
+Word #11 is 'j'
+Word #12 is 'k'
+Word #13 is 'l'
+Word #14 is 'm'
+Word #15 is 'n'
+Word #16 is 'o'
+Word #17 is 'p'
+Word #18 is 'q'
+Word #19 is 'r'
+Word #20 is 's'
+Word #21 is 't'
+Word #22 is 'u'
+Word #23 is 'v'
+Word #24 is 'w'
+Word #25 is 'x'
+Word #26 is 'y'
+Word #27 is 'z.'
+Word #28 is 'fhai'
+Word #29 is 'dh'
+Word #30 is 'fuihdiuf'
+Word #31 is 'iduhaf'
+Word #32 is 'hdfiudsahf'
+Word #33 is 'iuds'
+Word #34 is 'finally..'
+Type a few words separated by space (q - to quit):
+                [Enter]
+Type a few words separated by space (q - to quit):
+q is my favourite letter
+Word #1 is 'q'
+Word #2 is 'is'
+Word #3 is 'my'
+Word #4 is 'favourite'
+Word #5 is 'letter'
+*** End of Tokenizing Words Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+0
+
+C:\Users\16475\Documents\Courses\Sem1\CPR101\Week11\Tokenizing\Debug\Tokenizing.exe (process 14328) exited with code 0.
+Press any key to close this window . . .
